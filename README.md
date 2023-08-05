@@ -1,6 +1,6 @@
 # nlpMIDRG
 
-- Background
+- *Background*
 Medical imaging description and disease diagnosis are vitally important yet time-consuming. Automatic medical imaging diagnostic report generation (MIDRG) from medical image description can reduce clinicians’ workload and improve their routine efficiency. As a cost-effective approach, fine-tuning of pre-trained large language models (LLMs) becomes indispensable for downstream applications. However, semantic inconsistency of sentence embedding has been massively witnessed from undesirable repetitions or unnaturalness in text generation. 
 
 - Our work
