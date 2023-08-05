@@ -1,7 +1,9 @@
 # nlpMIDRG
 
 - **Background**
-Medical imaging description and disease diagnosis are vitally important yet time-consuming. Automatic medical imaging diagnostic report generation (MIDRG) from medical image description can reduce clinicians’ workload and improve their routine efficiency. As a cost-effective approach, fine-tuning of pre-trained large language models (LLMs) becomes indispensable for downstream applications. However, semantic inconsistency of sentence embedding has been massively witnessed from undesirable repetitions or unnaturalness in text generation. 
+<br />
+Medical imaging description and disease diagnosis are vitally important yet time-consuming. Automatic medical imaging diagnostic report generation (MIDRG) from medical image description can reduce clinicians’ workload and improve their routine efficiency. As a cost-effective approach, fine-tuning of pre-trained large language models (LLMs) becomes indispensable for downstream applications. However, semantic inconsistency of sentence embedding has been massively witnessed from undesirable repetitions or unnaturalness in text generation.
+<br />
 
 - **Our work**
     To address the underlying issue of anisotropic distribution of token representation, in this study, a contrastive learning penalized cross-entropy (CLpCE) objective function is implemented firstly to enhance the semantic consistency and accuracy of token representation by guiding the fine-tuning procedure towards a specific task. Further, to improve the diversity of text summarization and to prevent sampling from unreliable tail of token distributions, a diversity contrastive
