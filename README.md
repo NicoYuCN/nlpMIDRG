@@ -1,4 +1,4 @@
-*This is a natural language processing (NLP) project for medical imaging diagnositic report generation (MIDRG)*
+*This is a natural language processing (NLP) project for medical imaging diagnositic report generation (MIDRG).*
 
 **Background**
 <br />
