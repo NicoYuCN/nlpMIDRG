@@ -12,3 +12,15 @@ search (DCS) decoding method is designed for restricting the report generation d
 **Our contribution**
 <br />
 This study might shed some light on relieving this issue by developing comprehensive strategies to enhance semantic coherence, accuracy and diversity of sentence embedding. In summary, the novelty comes from (1) An objective function CLpCE is designed for balancing both unsupervised and supervised learning in the model fine-tuning stage to enhance the consistency of feature representation of sentence embedding. (2) A novel decoding method DCS is proposed to improve the representation diversity and to relieve anisotropic distributions of token generation with maintained quality of text summarization. (3) The effectiveness of the CLpCEwDCS decoding framework is verified, and competitive performance and better diversity are observed on the MIDRG task.
+
+**Citation**
+@article{zhang2024contrastive,
+  title={Contrastive Learning Penalized Cross-Entropy with Diversity Contrastive Search Decoding for Diagnostic Report Generation of Reduced Token Repetition},
+  author={Zhang, Taozheng and Meng, Jiajian and Yang, Yuseng and Yu, Shaode},
+  journal={Applied Sciences},
+  volume={14},
+  number={7},
+  pages={2817},
+  year={2024},
+  publisher={MDPI}
+}
